@@ -57,7 +57,7 @@ class Life {
         }
         this.grid = nextGrid;
         //garbage collection
-        
+        //gc()
 
     }
 
